@@ -2,4 +2,5 @@
     <string name="app_name">BibliotecaDeFotos</string>
     <string name="selectedImage">Imagem a ser selecionada pelo usuário</string>
     <string name="imagePick">Selecione uma imagem</string>
+    <string name="takePicture">Tire uma foto</string>
 </resources>
